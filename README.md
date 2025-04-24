@@ -23,3 +23,6 @@ This project was completed for a Data Analyst Internship task focused on SQL ski
 ## 🚀 Submission
 This work is submitted as part of Task 3 of the internship.
 
+git add .
+git commit -m "Completed Task 3 - SQL for Data Analysis"
+git push
